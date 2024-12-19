@@ -1,2 +1,2 @@
 # C-
-expanding knowledge on c language
+expanding knowledge on c programming language
